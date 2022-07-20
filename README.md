@@ -1,9 +1,7 @@
 # GudangKita
 
-[![Banner-Gudang-Kita.png](https://i.postimg.cc/m23Jd1xF/Banner-Gudang-Kita.png)](https://postimg.cc/bsJmrJwz)
+[![4.jpg](https://i.postimg.cc/m2Fw9DJt/4.jpg)](https://postimg.cc/HVdXDppg)
 
-Aplikasi GudangKita merupakan aplikasi manajemen gudang berbasis Android. Mengandung CRUD simpel berbasis Firebase 
-dan dibangun dengan bahasa pemrograman Java. Bahkan aplikasi ini juga menggunakan sistem autentikasi dari Firebase. 
-Cocok bagi anda yang ingin mempelajari Firebase lebih dalam.  
-
-Pelajari lebih lanjut di www.ngulikode.com
+Aplikasi RajaDimsum merupakan aplikasi pemesanan dimsum online Android. Mengandung CRUD simpel berbasis Firebase 
+Dan dibangun dengan bahasa pemrograman Java. Bahkan aplikasi ini juga menggunakan sistem autentikasi dari Firebase. 
+Cocok bagi anda yang ingin mempelajari Firebase lebih dalam.
